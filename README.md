@@ -16,7 +16,7 @@ Linguagem:
 [![Andre-Status](https://github-readme-stats.vercel.app/api?username=AndreSilva27)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<a herf="https://instagram.com/ancris27252020?igshid=NzZlODBkYWE4Ng=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"/><a/>
+<a herf="https://instagram.com/ancris27252020?igshid=NzZlODBkYWE4Ng=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"/>
 <br>
 <br>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter-logo"/>
